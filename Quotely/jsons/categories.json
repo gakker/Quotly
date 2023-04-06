@@ -1,0 +1,198 @@
+{
+    "status": true,
+    "message": "quotes details found",
+    "categories": [
+        {
+            "_id": "62bee8f0fb79cd0ee72948c1",
+            "name": "Popular",
+            "quote_type": [
+                {
+                    "_id": "12bee8f0fb79cd0ee72948c1",
+                    "name": "Toxic Relationship",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c2",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c3",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c4",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c5",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c6",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c7",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                }
+            ]
+        },
+        {
+            "_id": "62bee8f0fb79cd0ee72948c2",
+            "name": "For You",
+            "quote_type": [
+                {
+                    "_id": "12bee8f0fb79cd0ee72948c1",
+                    "name": "Toxic Relationship",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c2",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c3",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c4",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c5",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c6",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c7",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                }
+            ]
+        },
+        {
+            "_id": "62bee8f0fb79cd0ee72948c3",
+            "name": "Calm Down",
+            "quote_type": [
+                {
+                    "_id": "12bee8f0fb79cd0ee72948c1",
+                    "name": "Toxic Relationship",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c2",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c3",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c4",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c5",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c6",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c7",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                }
+            ]
+        },
+        {
+            "_id": "62bee8f0fb79cd0ee72948c4",
+            "name": "Personal",
+            "quote_type": [
+                {
+                    "_id": "12bee8f0fb79cd0ee72948c1",
+                    "name": "Toxic Relationship",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c2",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c3",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c4",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "22bee8f0fb79cd0ee72948c5",
+                    "name": "Short Quotes",
+                    "image": "heart",
+                    "lock": false
+                },
+                {
+                    "_id": "32bee8f0fb79cd0ee72948c6",
+                    "name": "Setting Goals",
+                    "image": "heart",
+                    "lock": true
+                },
+                {
+                    "_id": "42bee8f0fb79cd0ee72948c7",
+                    "name": "Love",
+                    "image": "heart",
+                    "lock": true
+                }
+            ]
+        }
+    ]
+}

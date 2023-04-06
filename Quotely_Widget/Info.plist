@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>instagram-stories</string>
+	</array>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.widgetkit-extension</string>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Constanb.TTF</string>
+		<string>Oat_Milk.otf</string>
+		<string>Chalkboard.ttc</string>
+		<string>PlayfairDisplayMedium-9YKZK.ttf</string>
+		<string>JustMeAgainDownHere-Regular.ttf</string>
+		<string>CecepsHandwriting-vmpKZ.ttf</string>
+		<string>DanielsHandwriting-V50Z.ttf</string>
+		<string>Kalam-Regular.ttf</string>
+		<string>LyonsSerif-E5BW.ttf</string>
+		<string>PatrickHand-Regular.ttf</string>
+		<string>PinyonScript-Regular.ttf</string>
+	</array>
+</dict>
+</plist>
